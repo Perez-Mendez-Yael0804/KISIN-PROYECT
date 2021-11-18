@@ -169,7 +169,7 @@ body{
 }
 
 @media screen and (max-width: 425px){
-    formulario p {
+    .formulario p {
 		font-size: 14.3px;
 		text-align: left;
 	}

@@ -57,7 +57,7 @@ body{
 }
 
 .bg-img{
-    background-image: url(/IMG/ne.jpg);
+    background-image: url(../../IMG/ne.jpg);
     height: 118vh;
     background-size: cover;
     background-position: center;
@@ -163,7 +163,7 @@ body{
 
 @media screen and (max-width: 576px){
     .bg-img{
-        background-image: url(/IMG/ne.jpg);
+        background-image: url(../../IMG/ne.jpg);
         height: 102vh;
     }
     
